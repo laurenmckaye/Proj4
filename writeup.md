@@ -3,4 +3,6 @@
 ## Introduction
 ## Methodology
 ## Visualization
+![model](./images/regmodel.png)
+![importance](./images/importance.png) 
 ## Conclusion
