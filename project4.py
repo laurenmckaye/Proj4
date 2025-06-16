@@ -86,5 +86,5 @@ plt.show()
 
 #graphing freature importance 
 plt.figure(figsize=(12, 8))
-plot_importance(model, max_num_features=20)  # Top 20 features
+plot_importance(model, max_num_features=20) 
 plt.show()
